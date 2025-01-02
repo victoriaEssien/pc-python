@@ -1,0 +1,14 @@
+# Ignore .idea folder (IDE-specific files, e.g., PyCharm)
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system files (macOS and Windows examples)
+.DS_Store
+Thumbs.db
