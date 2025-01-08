@@ -12,3 +12,6 @@ __pycache__/
 # Ignore system files (macOS and Windows examples)
 .DS_Store
 Thumbs.db
+
+# Venv
+exercises/venv/
